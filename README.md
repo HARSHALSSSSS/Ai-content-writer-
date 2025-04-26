@@ -1,8 +1,6 @@
 # Gemini Content Wizard
 
-## Demo video of the overall project
 
-https://www.youtube.com/watch?v=4B1qwMBQmLc
 
 ## Introduction
 
